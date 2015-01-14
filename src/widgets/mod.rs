@@ -6,4 +6,5 @@ pub use self::r_combo_box::RComboBox;
 pub use self::r_push_button::RPushButton;
 
 mod r_widget;
+mod r_combo_box;
 mod r_push_button;
